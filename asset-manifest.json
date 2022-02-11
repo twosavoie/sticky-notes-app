@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sticky-notes-app/static/css/main.0dd6743d.chunk.css",
-    "main.js": "/sticky-notes-app/static/js/main.e02936c7.chunk.js",
-    "main.js.map": "/sticky-notes-app/static/js/main.e02936c7.chunk.js.map",
+    "main.js": "/sticky-notes-app/static/js/main.d438996e.chunk.js",
+    "main.js.map": "/sticky-notes-app/static/js/main.d438996e.chunk.js.map",
     "runtime-main.js": "/sticky-notes-app/static/js/runtime-main.d79e9287.js",
     "runtime-main.js.map": "/sticky-notes-app/static/js/runtime-main.d79e9287.js.map",
     "static/js/2.064be3b7.chunk.js": "/sticky-notes-app/static/js/2.064be3b7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d79e9287.js",
     "static/js/2.064be3b7.chunk.js",
     "static/css/main.0dd6743d.chunk.css",
-    "static/js/main.e02936c7.chunk.js"
+    "static/js/main.d438996e.chunk.js"
   ]
 }
